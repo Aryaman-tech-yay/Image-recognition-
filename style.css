@@ -1,0 +1,20 @@
+ body
+  {
+    color: aquamarine;
+    background: purple;
+  }
+  .heading
+  {
+    width: 82%;
+    font-size: 25px;
+  }
+  #camera 
+  {
+    border: 2px dashed lightgreen;
+    width: 375px;
+    height: 325px; 
+  }
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: orange;
+  }
